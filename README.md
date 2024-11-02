@@ -14,7 +14,7 @@ Pygame library
 Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/snake-game.git
+git clone git@github.com:appuva345/SnakeAndLadder.git
 
 Navigate to the project directory:
 cd snake-game
